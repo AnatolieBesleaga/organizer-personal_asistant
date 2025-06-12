@@ -1,21 +1,40 @@
-<<<<<<< HEAD
-# personal_assistant
+# 📝 Personal Assistant Organizer
 
-A new Flutter project.
+A Flutter-based Personal Assistant App to organize your tasks and notes, with tagging, color-coding, and reminder functionality. Now available as a Progressive Web App (PWA) via GitHub Pages!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Create, edit, and delete notes
+- 🏷️ Tag notes by category (Work, Personal, etc.)
+- 🎨 Choose a color for each note
+- 🔔 Set reminder times for notes (via local notifications or alternative for PWA)
+- 🔍 Search by title or tag
+- 📅 Sort by latest or alphabetical
+- 💾 Offline support via local storage (Hive)
+- 🌐 Deployable as a Web App / PWA
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# organizer-personal_asistant
-Get the assistance you need
->>>>>>> de4557e76b056ab3c42884bd81fc9506c58178fe
+## 🌐 Live Demo (PWA)
+
+> 📲 Open on iPhone or browser  
+**[https://your-username.github.io/organizer-personal_asistant](https://your-username.github.io/organizer-personal_asistant)**
+
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+- Flutter (3.x or higher)
+- Dart
+- Git
+
+### Setup
+
+```bash
+git clone https://github.com/your-username/organizer-personal_asistant.git
+cd organizer-personal_asistant
+flutter pub get
+
